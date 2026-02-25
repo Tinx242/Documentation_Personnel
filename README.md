@@ -3,6 +3,9 @@
 Un des responsables de la **M2L** utilise une application dédiée pour gérer les employés des ligues. Voici les ressources disponibles pour accéder au projet :
 
 1️⃣ **Code source** : [Github 🐙](https://github.com/Tinx242/personnel)
+
+---
+
 2️⃣ **Bibliothèque de dialogue en ligne de commande** : [CommandLine 📥](https://github.com/alexandreMesle/CommandLine)
 
 ---
